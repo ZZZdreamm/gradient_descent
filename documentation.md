@@ -6,7 +6,9 @@ Ale ma ona tylko jedno minimum, co ułatwia sprawę.
 Za to funkcja F jest funkcją 1 zmiennej, ale ma wiele minimum lokalnych, co powoduje, że algorytm może się zatrzymać w którymś z nich przez
 co nie znajdzie minimum globalnego, a jedynie lokalne.
 
-Wiec ostatecznie ciezsza do zoptymalizowania jest funkcja F ze wzgledu na jej wiele minimów lokalnych.
+Trudnosc zoptymalizowania funkcji 2 zmiennych jest latwiejsza niz zoptymalizowanie funkcji z wieloma minimami lokalnymi.
+
+Wiec ostatecznie trudniejsza do zoptymalizowania jest funkcja F ze wzgledu na jej wiele minimów lokalnych.
 
 Zadanie 2:
 

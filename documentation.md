@@ -3,10 +3,10 @@ Zadanie 1:
 Funkcja G jest funkcją 2 zmiennych, więc z góry można założyć, że ciężej ją bedzie zoptymalizować.
 Ale ma ona tylko jedno minimum, co ułatwia sprawę.
 
-Za to funkcja F jest funkcją 1 zmiennej, ale ma wiele minimum lokalnych, co powoduje, że będzie trzeba
-dodać dodatkowy koszt, bo czasami dla niektorych punktów startowych algorytm nie znajdzie minimum globalnego tylko lokalne.
+Za to funkcja F jest funkcją 1 zmiennej, ale ma wiele minimum lokalnych, co powoduje, że algorytm może się zatrzymać w którymś z nich przez
+co nie znajdzie minimum globalnego, a jedynie lokalne.
 
-Dla wartości kroku większej niż 1 wartości funkcji G jak i F drastycznie rosną zatem też ich minimum
+Wiec ostatecznie ciezsza do zoptymalizowania jest funkcja F ze wzgledu na jej wiele minimów lokalnych.
 
 Zadanie 2:
 
